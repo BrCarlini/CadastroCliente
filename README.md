@@ -1,6 +1,6 @@
-# Cadastro de Clinete - Desafio
+# Cadastro de Cliente - Desafio
 
-**Projeto**: Aplicatico web de Cadastro de clientes onde pode fazer as operações de adicionar, listar todos os clientes, editar, atualizar e remover clientes.
+**Projeto**: Aplicatico web de Cadastro de clientes onde executa operações de adicionar, listar todos os clientes, editar, atualizar e remover clientes.
 
 
 ## 🖼️ Screenshots
