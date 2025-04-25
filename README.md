@@ -12,10 +12,10 @@
 *Tela inicial com o card aberto*
 
 ![image](https://github.com/user-attachments/assets/1ff6e622-0bb8-494d-92ce-d890bd2027b3)  ![image](https://github.com/user-attachments/assets/d0eb43fc-1822-4dcc-8df9-d63c9fcf5bab)
-*Tela formulario para adicionar cliente*
+*Tela formulário para adicionar cliente*
 
 ![image](https://github.com/user-attachments/assets/48dcdd6c-02f1-48a9-8a75-dfc73e2d3119)  ![image](https://github.com/user-attachments/assets/b6bbee18-8467-4be6-a17d-479fcf90e438)
-* Tela de formulario de edição de cliente*
+*Tela de formulário de edição de cliente*
 
 
 ## 🚀 Como rodar o projeto
